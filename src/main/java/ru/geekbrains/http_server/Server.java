@@ -16,7 +16,7 @@ import static ru.geekbrains.http_server.IoProcessors.PROCESSORS;
 
 public class Server {
 
-    private static final String WWW = "/Users/aleks/dev/geek-base-oop/www";
+    private static final String WWW = "D:\\Обучение GB\\006 Знакомство с языком Java";
 
     private static final Logger logger = LoggerFactory.create();
 
